@@ -7,7 +7,7 @@ In this work we analyse the two datasets "winequality-red.csv" and "winequality-
 https://archive.ics.uci.edu/ml/machine-learning-databases/wine-quality/
 
 ## Environment and tools: 
-Python with the models: Logistic Regression, Random Forest Classifier and Artificial Neural Networks.
+Python with the multiclass models: Logistic Regression, Random Forest Classifier and Artificial Neural Networks.
 
 ## Relevant Paper: 
 P. Cortez, A. Cerdeira, F. Almeida, T. Matos and J. Reis. Modeling wine preferences by data mining from physicochemical properties. In Decision Support Systems, Elsevier, 47(4):547-553, 2009.
