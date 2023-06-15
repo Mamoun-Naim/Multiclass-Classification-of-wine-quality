@@ -44,7 +44,7 @@ In addition to these models, the classes were balanced and the principal compone
 
 ## Code: 
 the Python code is given in this repository under the form of Jupyter Notebooks and full script.
-The Code is actually divided into three parts:
+The Code is actually divided into three parts:<br>
      1- "Wine quality EDA.py" the data is analyzed within the framework of Exploratory Data Analysis.<br>
      2- "Wine quality models.py" different prediction models are trained and then compared with each other. The best model hyperparameters are fine-tuned and stored for later quality prediction of other data.<br>
      3- "Wine quality prediction.py" The best model is used to predict the quality of new data.
