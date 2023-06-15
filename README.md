@@ -5,7 +5,6 @@ In this project, two datasets on red and white wine samples are analyzed. The qu
 ## Background: 
 A crucial step in any reputable business is quality control, and excellent production depends on appropriate and precise quality control that can verify the products' function, dimensions, composition, etc.
 One of the desired quality control methods might be non-destructive measurement, e.g. Raman spectrometers, which allows the content of a material to be measured without damaging the product. For example, such a device can analyze a liquid in a closed bottle without opening it. However, such an analysis is not sufficient to assess the quality of a bottle of wine, for example, from a human point of view or in terms of taste. Therefore, this analysis must be followed by a calculation algorithm that uses the results of the measurements and calculates the quality of the material. This task could also be solved by machine learning and a well-trained classifier.
- <font color=blue>Ein Preis von 0 scheint seltsam, aber es ist möglich </font>
 
 ## Keywords: 
 Python, machine learning, Multiclasse classification, RandomForestclassifier.
