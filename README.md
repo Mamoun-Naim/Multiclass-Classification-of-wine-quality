@@ -16,7 +16,7 @@ https://archive.ics.uci.edu/ml/machine-learning-databases/wine-quality/
 The winequality-names.txt file contains relevant information about the two datasets related to red and white variants of the Portuguese wine "Vinho Verde".
 
 ## Features in each dataset:
-   1 - fixed acidity
+   1 - fixed acidity<br>
    2 - volatile acidity
    3 - citric acid
    4 - residual sugar
