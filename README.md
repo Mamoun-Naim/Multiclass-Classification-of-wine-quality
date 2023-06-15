@@ -34,11 +34,11 @@ The winequality-names.txt file contains relevant information about the two datas
 P. Cortez, A. Cerdeira, F. Almeida, T. Matos and J. Reis. Modeling wine preferences by data mining from physicochemical properties. In Decision Support Systems, Elsevier, 47(4):547-553, 2009.
 
 ## Methodology:
-A machie-learning model for such tasks could be a classifier or a regresser one, because the quality or classes results from metric scale measurements. Therefore, five models were tested:
-   1 - LinearRegression
-   2 - RandomForestRegressor
-   3 - LogisticRegression
-   4 - RandomForestClassifier
+A machie-learning model for such tasks could be a classifier or a regresser one, because the quality or classes results from metric scale measurements. Therefore, five models were tested:<br>
+   1 - LinearRegression<br>
+   2 - RandomForestRegressor<br>
+   3 - LogisticRegression<br>
+   4 - RandomForestClassifier<br>
    5 - artificial neural network (ANN)
 In addition to these models, the classes were balanced and the principal component analyzed. Then, the Hyperparameters of the best model, RandomForestClassifier, were finetuned using GridSearchCV in order to get good predictive accuracy, and the resulting model was saved for quality predtion of other file.
 
