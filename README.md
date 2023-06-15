@@ -1,4 +1,4 @@
-# Wine-Quality
+# Multiclass Classification of wine quality
 In this Project two datasets related to red and white wine samples will be analysed. 
 The aim is to model the wine quality from personal taste based on measured physicochemical vlaues.
 
