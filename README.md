@@ -41,7 +41,7 @@ A machie-learning model for such tasks could be a classifier or a regresser one,
    3 - LogisticRegression<br>
    4 - RandomForestClassifier<br>
    5 - artificial neural network (ANN)<br>
-In addition to these models, the classes were balanced and the principal component analyzed. Then, the Hyperparameters of the best model, RandomForestClassifier, were finetuned using GridSearchCV in order to get good predictive accuracy, and the resulting model was saved for quality predtion of other file.
+In addition to these models, the classes were balanced and the principal component analyzed. Then, the Hyperparameters of the best model, RandomForestClassifier, were finetuned using GridSearchCV in order to get good predictive accuracy, and the resulting model "opt_model.p" was saved under pickle format for quality predtion of other file.
 
 ## Code: 
 the Python code is given in this repository under the form of Jupyter Notebooks and full script.
