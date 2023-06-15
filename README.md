@@ -17,17 +17,17 @@ The winequality-names.txt file contains relevant information about the two datas
 
 ## Features in each dataset:
    1 - fixed acidity<br>
-   2 - volatile acidity
-   3 - citric acid
-   4 - residual sugar
-   5 - chlorides
-   6 - free sulfur dioxide
-   7 - total sulfur dioxide
-   8 - density
-   9 - pH
-   10 - sulphates
-   11 - alcohol
-   And the output variable (given by the wine tasters): 
+   2 - volatile acidity<br>
+   3 - citric acid<br>
+   4 - residual sugar<br>
+   5 - chlorides<br>
+   6 - free sulfur dioxide<br>
+   7 - total sulfur dioxide<br>
+   8 - density<br>
+   9 - pH<br>
+   10 - sulphates<br>
+   11 - alcohol<br>
+   And the output variable (given by the wine tasters):<br>
    12 - quality (score between 0 and 10)
 
 ## Relevant Paper: 
