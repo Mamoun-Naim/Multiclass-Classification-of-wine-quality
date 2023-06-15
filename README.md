@@ -11,3 +11,8 @@ Python with the multiclass models: Logistic Regression, Random Forest Classifier
 
 ## Relevant Paper: 
 P. Cortez, A. Cerdeira, F. Almeida, T. Matos and J. Reis. Modeling wine preferences by data mining from physicochemical properties. In Decision Support Systems, Elsevier, 47(4):547-553, 2009.
+
+## Results: 
+	Muticlass classification accuracy of 64 %
+	multiclassifier with tolerance of 1 leads to accuracy of 95%
+	multiclassifier with tolerance of 2 leads to accuracy of nearly 100%
