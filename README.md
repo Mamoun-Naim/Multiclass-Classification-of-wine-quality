@@ -1,7 +1,7 @@
 # Multiclass Classification of wine quality
 ![](glasses.png)
 The quality of the wine is an indicator of the true taste of the wine, which mainly depends on its chemical composition.
-In this project, two datasets on red and white wine samples are analyzed. The quality of wine is judged by wine tasters, and the goal of the prediction here is to achieve an equal score based on the measured chemical values.
+In this project, two datasets on red and white wine samples are analyzed. The quality of wine is judged by wine tasters, and the aim of the prediction here is to achieve an equal score based on the measured chemical values.
 
 ## Background: 
 A crucial step in any reputable business is quality control, and excellent production depends on appropriate and precise quality control that can verify the products' function, dimensions, composition, etc.
