@@ -49,7 +49,7 @@ def resample_data_smote(features, target):
     
     return features, target
 
-# These Dictionary will be used to replace NaNs in the dataframes
+# This Dictionary will be used to replace NaNs in the dataframes
 median_nan={}
 for col_name in wine.columns[1:]:
     median_nan[col_name]=wine[col_name].median()
